@@ -27,7 +27,7 @@ const Home = () => {
                     <Typewriter
                         onInit={(typewriter) => {
                             typewriter
-                                .typeString('Hey there! Welcome to my personal website where I may share some thoughts when')
+                                .typeString('Hey there, this is me! Welcome to my personal website where I may share some thoughts when')
                                 .pauseFor(500)
                                 .deleteChars(4)
                                 .typeString('if')
